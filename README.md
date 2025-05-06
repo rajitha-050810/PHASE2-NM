@@ -36,6 +36,13 @@ Real-time fraud detection:
  Evolved Goals
  Following EDA, the focus shifted toward handling class imbalance and improving recall, due to the rarity of fraud cases.
 
+ 3. Flowchart of the Project Workflow
+java
+CopyEdit
+Data Collection → Data Preprocessing → EDA → Feature Engineering → Model Building → Model Evaluation → Fraud Detection Dashboard (Optional)
+(Optional: Can provide a visual flowchart using tools like Lucidchart or draw.io.)
+
+
 4. 📊 Data Description
 
  Dataset Name: Credit Card Fraud Detection  
